@@ -336,5 +336,5 @@ else
         end)
     end)
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/MoouRBX/VW-Scripts/"..tostring(commit).."/newinkgame.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MoouRBX/VW-Scripts/main/newinkgame.lua"))()
 end
